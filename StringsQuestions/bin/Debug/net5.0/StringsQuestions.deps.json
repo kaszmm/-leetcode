@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "StringsQuestions/1.0.0": {
+        "dependencies": {
+          "TwoSums": "1.0.0"
+        },
+        "runtime": {
+          "StringsQuestions.dll": {}
+        }
+      },
+      "TwoSums/1.0.0": {
+        "runtime": {
+          "TwoSums.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StringsQuestions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TwoSums/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

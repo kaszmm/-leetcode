@@ -1,0 +1,16 @@
+D:\Work\Leetcode\TwoSums\HashTable\bin\Debug\net5.0\HashTable.exe
+D:\Work\Leetcode\TwoSums\HashTable\bin\Debug\net5.0\HashTable.deps.json
+D:\Work\Leetcode\TwoSums\HashTable\bin\Debug\net5.0\HashTable.runtimeconfig.json
+D:\Work\Leetcode\TwoSums\HashTable\bin\Debug\net5.0\HashTable.runtimeconfig.dev.json
+D:\Work\Leetcode\TwoSums\HashTable\bin\Debug\net5.0\HashTable.dll
+D:\Work\Leetcode\TwoSums\HashTable\bin\Debug\net5.0\ref\HashTable.dll
+D:\Work\Leetcode\TwoSums\HashTable\bin\Debug\net5.0\HashTable.pdb
+D:\Work\Leetcode\TwoSums\HashTable\obj\Debug\net5.0\HashTable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Leetcode\TwoSums\HashTable\obj\Debug\net5.0\HashTable.AssemblyInfoInputs.cache
+D:\Work\Leetcode\TwoSums\HashTable\obj\Debug\net5.0\HashTable.AssemblyInfo.cs
+D:\Work\Leetcode\TwoSums\HashTable\obj\Debug\net5.0\HashTable.csproj.CoreCompileInputs.cache
+D:\Work\Leetcode\TwoSums\HashTable\obj\Debug\net5.0\HashTable.dll
+D:\Work\Leetcode\TwoSums\HashTable\obj\Debug\net5.0\ref\HashTable.dll
+D:\Work\Leetcode\TwoSums\HashTable\obj\Debug\net5.0\HashTable.pdb
+D:\Work\Leetcode\TwoSums\HashTable\obj\Debug\net5.0\HashTable.genruntimeconfig.cache
+D:\Work\Leetcode\TwoSums\HashTable\obj\Debug\net5.0\HashTable.csproj.AssemblyReference.cache

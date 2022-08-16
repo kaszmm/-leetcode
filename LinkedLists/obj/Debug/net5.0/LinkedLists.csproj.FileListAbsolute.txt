@@ -1,0 +1,16 @@
+D:\Work\Leetcode\TwoSums\LinkedLists\bin\Debug\net5.0\LinkedLists.exe
+D:\Work\Leetcode\TwoSums\LinkedLists\bin\Debug\net5.0\LinkedLists.deps.json
+D:\Work\Leetcode\TwoSums\LinkedLists\bin\Debug\net5.0\LinkedLists.runtimeconfig.json
+D:\Work\Leetcode\TwoSums\LinkedLists\bin\Debug\net5.0\LinkedLists.runtimeconfig.dev.json
+D:\Work\Leetcode\TwoSums\LinkedLists\bin\Debug\net5.0\LinkedLists.dll
+D:\Work\Leetcode\TwoSums\LinkedLists\bin\Debug\net5.0\ref\LinkedLists.dll
+D:\Work\Leetcode\TwoSums\LinkedLists\bin\Debug\net5.0\LinkedLists.pdb
+D:\Work\Leetcode\TwoSums\LinkedLists\obj\Debug\net5.0\LinkedLists.csproj.AssemblyReference.cache
+D:\Work\Leetcode\TwoSums\LinkedLists\obj\Debug\net5.0\LinkedLists.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Leetcode\TwoSums\LinkedLists\obj\Debug\net5.0\LinkedLists.AssemblyInfoInputs.cache
+D:\Work\Leetcode\TwoSums\LinkedLists\obj\Debug\net5.0\LinkedLists.AssemblyInfo.cs
+D:\Work\Leetcode\TwoSums\LinkedLists\obj\Debug\net5.0\LinkedLists.csproj.CoreCompileInputs.cache
+D:\Work\Leetcode\TwoSums\LinkedLists\obj\Debug\net5.0\LinkedLists.dll
+D:\Work\Leetcode\TwoSums\LinkedLists\obj\Debug\net5.0\ref\LinkedLists.dll
+D:\Work\Leetcode\TwoSums\LinkedLists\obj\Debug\net5.0\LinkedLists.pdb
+D:\Work\Leetcode\TwoSums\LinkedLists\obj\Debug\net5.0\LinkedLists.genruntimeconfig.cache

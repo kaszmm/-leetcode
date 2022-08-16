@@ -1,0 +1,16 @@
+D:\Work\Leetcode\TwoSums\Math\bin\Debug\net5.0\Mathemathics.exe
+D:\Work\Leetcode\TwoSums\Math\bin\Debug\net5.0\Mathemathics.deps.json
+D:\Work\Leetcode\TwoSums\Math\bin\Debug\net5.0\Mathemathics.runtimeconfig.json
+D:\Work\Leetcode\TwoSums\Math\bin\Debug\net5.0\Mathemathics.runtimeconfig.dev.json
+D:\Work\Leetcode\TwoSums\Math\bin\Debug\net5.0\Mathemathics.dll
+D:\Work\Leetcode\TwoSums\Math\bin\Debug\net5.0\ref\Mathemathics.dll
+D:\Work\Leetcode\TwoSums\Math\bin\Debug\net5.0\Mathemathics.pdb
+D:\Work\Leetcode\TwoSums\Math\obj\Debug\net5.0\Mathemathics.csproj.AssemblyReference.cache
+D:\Work\Leetcode\TwoSums\Math\obj\Debug\net5.0\Mathemathics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Leetcode\TwoSums\Math\obj\Debug\net5.0\Mathemathics.AssemblyInfoInputs.cache
+D:\Work\Leetcode\TwoSums\Math\obj\Debug\net5.0\Mathemathics.AssemblyInfo.cs
+D:\Work\Leetcode\TwoSums\Math\obj\Debug\net5.0\Mathemathics.csproj.CoreCompileInputs.cache
+D:\Work\Leetcode\TwoSums\Math\obj\Debug\net5.0\Mathemathics.dll
+D:\Work\Leetcode\TwoSums\Math\obj\Debug\net5.0\ref\Mathemathics.dll
+D:\Work\Leetcode\TwoSums\Math\obj\Debug\net5.0\Mathemathics.pdb
+D:\Work\Leetcode\TwoSums\Math\obj\Debug\net5.0\Mathemathics.genruntimeconfig.cache
