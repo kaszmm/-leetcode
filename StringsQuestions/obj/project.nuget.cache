@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZretMOyBL9LEZyPPCVTzsLBT1ayPWlJIZxEd6D70/2i7a4p4QXZlSmXxCEoRuBh659eGNrdBl9YBDrpT5szNwg==",
+  "dgSpecHash": "dxcqfBA3hdyPLnWBKXXQoEsY91KjbNgGr2BxSuDpLbl6s+uhDqXunbT4ZSOG1sMwxKjE4v1lXOu/MJTCddwpWg==",
   "success": true,
-  "projectFilePath": "D:\\Work\\Leetcode\\TwoSums\\StringsQuestions\\StringsQuestions.csproj",
+  "projectFilePath": "C:\\LeetCode Stuff\\-leetcode\\StringsQuestions\\StringsQuestions.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

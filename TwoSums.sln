@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31729.503
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoSums", "TwoSums\TwoSums.csproj", "{3F145F5A-5EB4-4B2F-AFED-3660D6EF3901}"
 EndProject
@@ -19,7 +19,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mathemathics", "Math\Mathem
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Greedy", "Greedy\Greedy.csproj", "{2C8B86FB-E154-442D-8A7D-0F046D33CE97}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicProgramming", "DynamicProgramming\DynamicProgramming.csproj", "{788DD4CD-DC88-43F6-ACF0-F7288D2EA2C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DynamicProgramming", "DynamicProgramming\DynamicProgramming.csproj", "{788DD4CD-DC88-43F6-ACF0-F7288D2EA2C6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RandomSums (Medium)", "RandomSums (Medium)\RandomSums (Medium).csproj", "{04003F1A-7233-40A3-8307-C77D00FA672D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blind 75", "Blind 75\Blind 75.csproj", "{0BBAF13F-228D-4496-800E-41908F7F36D0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +67,14 @@ Global
 		{788DD4CD-DC88-43F6-ACF0-F7288D2EA2C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{788DD4CD-DC88-43F6-ACF0-F7288D2EA2C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{788DD4CD-DC88-43F6-ACF0-F7288D2EA2C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04003F1A-7233-40A3-8307-C77D00FA672D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04003F1A-7233-40A3-8307-C77D00FA672D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04003F1A-7233-40A3-8307-C77D00FA672D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04003F1A-7233-40A3-8307-C77D00FA672D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BBAF13F-228D-4496-800E-41908F7F36D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BBAF13F-228D-4496-800E-41908F7F36D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BBAF13F-228D-4496-800E-41908F7F36D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BBAF13F-228D-4496-800E-41908F7F36D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

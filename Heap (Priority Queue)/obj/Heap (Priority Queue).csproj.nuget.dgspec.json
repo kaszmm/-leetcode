@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Work\\Leetcode\\TwoSums\\Heap (Priority Queue)\\Heap (Priority Queue).csproj": {}
+    "C:\\LeetCode Stuff\\-leetcode\\Heap (Priority Queue)\\Heap (Priority Queue).csproj": {}
   },
   "projects": {
-    "D:\\Work\\Leetcode\\TwoSums\\Heap (Priority Queue)\\Heap (Priority Queue).csproj": {
+    "C:\\LeetCode Stuff\\-leetcode\\Heap (Priority Queue)\\Heap (Priority Queue).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Work\\Leetcode\\TwoSums\\Heap (Priority Queue)\\Heap (Priority Queue).csproj",
+        "projectUniqueName": "C:\\LeetCode Stuff\\-leetcode\\Heap (Priority Queue)\\Heap (Priority Queue).csproj",
         "projectName": "Heap (Priority Queue)",
-        "projectPath": "D:\\Work\\Leetcode\\TwoSums\\Heap (Priority Queue)\\Heap (Priority Queue).csproj",
-        "packagesPath": "C:\\Users\\user10\\.nuget\\packages\\",
-        "outputPath": "D:\\Work\\Leetcode\\TwoSums\\Heap (Priority Queue)\\obj\\",
+        "projectPath": "C:\\LeetCode Stuff\\-leetcode\\Heap (Priority Queue)\\Heap (Priority Queue).csproj",
+        "packagesPath": "C:\\Users\\kasim\\.nuget\\packages\\",
+        "outputPath": "C:\\LeetCode Stuff\\-leetcode\\Heap (Priority Queue)\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user10\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kasim\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

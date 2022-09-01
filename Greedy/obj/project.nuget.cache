@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z65EXkpyd9TbXvZpqIPHkV5W2dSwq5y8WOyCyw8hj5B3BEvKJ6pVqfNAFL1OojHAOgWgK5M5+XxlRtHYzG3aNw==",
+  "dgSpecHash": "MKzuknAynWiOTPUk0U7f5pmu356YgL6KyiQCzzO55BMIZuyd+m2GCJgZyzge3P127KtL/weAHsZ7Rplalw26lQ==",
   "success": true,
-  "projectFilePath": "D:\\Work\\Leetcode\\TwoSums\\Greedy\\Greedy.csproj",
+  "projectFilePath": "C:\\LeetCode Stuff\\-leetcode\\Greedy\\Greedy.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

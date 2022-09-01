@@ -14,3 +14,19 @@ D:\Work\Leetcode\TwoSums\TwoSums\obj\Debug\net5.0\TwoSums.dll
 D:\Work\Leetcode\TwoSums\TwoSums\obj\Debug\net5.0\ref\TwoSums.dll
 D:\Work\Leetcode\TwoSums\TwoSums\obj\Debug\net5.0\TwoSums.pdb
 D:\Work\Leetcode\TwoSums\TwoSums\obj\Debug\net5.0\TwoSums.genruntimeconfig.cache
+C:\LeetCode Stuff\-leetcode\TwoSums\bin\Debug\net5.0\TwoSums.exe
+C:\LeetCode Stuff\-leetcode\TwoSums\bin\Debug\net5.0\TwoSums.deps.json
+C:\LeetCode Stuff\-leetcode\TwoSums\bin\Debug\net5.0\TwoSums.runtimeconfig.json
+C:\LeetCode Stuff\-leetcode\TwoSums\bin\Debug\net5.0\TwoSums.runtimeconfig.dev.json
+C:\LeetCode Stuff\-leetcode\TwoSums\bin\Debug\net5.0\TwoSums.dll
+C:\LeetCode Stuff\-leetcode\TwoSums\bin\Debug\net5.0\TwoSums.pdb
+C:\LeetCode Stuff\-leetcode\TwoSums\obj\Debug\net5.0\TwoSums.csproj.AssemblyReference.cache
+C:\LeetCode Stuff\-leetcode\TwoSums\obj\Debug\net5.0\TwoSums.GeneratedMSBuildEditorConfig.editorconfig
+C:\LeetCode Stuff\-leetcode\TwoSums\obj\Debug\net5.0\TwoSums.AssemblyInfoInputs.cache
+C:\LeetCode Stuff\-leetcode\TwoSums\obj\Debug\net5.0\TwoSums.AssemblyInfo.cs
+C:\LeetCode Stuff\-leetcode\TwoSums\obj\Debug\net5.0\TwoSums.csproj.CoreCompileInputs.cache
+C:\LeetCode Stuff\-leetcode\TwoSums\obj\Debug\net5.0\TwoSums.dll
+C:\LeetCode Stuff\-leetcode\TwoSums\obj\Debug\net5.0\refint\TwoSums.dll
+C:\LeetCode Stuff\-leetcode\TwoSums\obj\Debug\net5.0\TwoSums.pdb
+C:\LeetCode Stuff\-leetcode\TwoSums\obj\Debug\net5.0\TwoSums.genruntimeconfig.cache
+C:\LeetCode Stuff\-leetcode\TwoSums\obj\Debug\net5.0\ref\TwoSums.dll
