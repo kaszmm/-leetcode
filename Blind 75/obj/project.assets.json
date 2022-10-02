@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "Heap (Priority Queue)/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Heap (Priority Queue).dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Heap (Priority Queue).dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Heap (Priority Queue)/1.0.0": {
+      "type": "project",
+      "path": "../Heap (Priority Queue)/Heap (Priority Queue).csproj",
+      "msbuildProject": "../Heap (Priority Queue)/Heap (Priority Queue).csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "Heap (Priority Queue) >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\kasim\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\LeetCode Stuff\\-leetcode\\Heap (Priority Queue)\\Heap (Priority Queue).csproj": {
+              "projectPath": "C:\\LeetCode Stuff\\-leetcode\\Heap (Priority Queue)\\Heap (Priority Queue).csproj"
+            }
+          }
         }
       },
       "warningProperties": {

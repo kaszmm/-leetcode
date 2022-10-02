@@ -23,7 +23,18 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DynamicProgramming", "Dynam
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RandomSums (Medium)", "RandomSums (Medium)\RandomSums (Medium).csproj", "{04003F1A-7233-40A3-8307-C77D00FA672D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blind 75", "Blind 75\Blind 75.csproj", "{0BBAF13F-228D-4496-800E-41908F7F36D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blind 75", "Blind 75\Blind 75.csproj", "{0BBAF13F-228D-4496-800E-41908F7F36D0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{45393F26-6202-4426-807C-7BBDC8046EEA}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		..\ALIEN DICTIONARY (Leetcode) - Code & Whiteboard.mp4 = ..\ALIEN DICTIONARY (Leetcode) - Code & Whiteboard.mp4
+		..\DECODE WAYS (LeetCode).mp4 = ..\DECODE WAYS (LeetCode).mp4
+		Voice Junk\DP_Coin Change.mp3 = Voice Junk\DP_Coin Change.mp3
+		..\Longest Common Subsequence - Dynamic Programming - Leetcode 1143.mp4 = ..\Longest Common Subsequence - Dynamic Programming - Leetcode 1143.mp4
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MockInterview", "MockInterview\MockInterview.csproj", "{7711329F-EB32-4F60-9B47-C5AAA36009E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +86,10 @@ Global
 		{0BBAF13F-228D-4496-800E-41908F7F36D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BBAF13F-228D-4496-800E-41908F7F36D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0BBAF13F-228D-4496-800E-41908F7F36D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7711329F-EB32-4F60-9B47-C5AAA36009E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7711329F-EB32-4F60-9B47-C5AAA36009E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7711329F-EB32-4F60-9B47-C5AAA36009E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7711329F-EB32-4F60-9B47-C5AAA36009E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

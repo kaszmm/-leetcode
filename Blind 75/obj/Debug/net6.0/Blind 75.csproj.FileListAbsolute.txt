@@ -13,3 +13,10 @@ C:\LeetCode Stuff\-leetcode\Blind 75\obj\Debug\net6.0\refint\Blind 75.dll
 C:\LeetCode Stuff\-leetcode\Blind 75\obj\Debug\net6.0\Blind 75.pdb
 C:\LeetCode Stuff\-leetcode\Blind 75\obj\Debug\net6.0\Blind 75.genruntimeconfig.cache
 C:\LeetCode Stuff\-leetcode\Blind 75\obj\Debug\net6.0\ref\Blind 75.dll
+C:\LeetCode Stuff\-leetcode\Blind 75\bin\Debug\net6.0\Heap (Priority Queue).deps.json
+C:\LeetCode Stuff\-leetcode\Blind 75\bin\Debug\net6.0\Heap (Priority Queue).runtimeconfig.json
+C:\LeetCode Stuff\-leetcode\Blind 75\bin\Debug\net6.0\Heap (Priority Queue).runtimeconfig.dev.json
+C:\LeetCode Stuff\-leetcode\Blind 75\bin\Debug\net6.0\Heap (Priority Queue).exe
+C:\LeetCode Stuff\-leetcode\Blind 75\bin\Debug\net6.0\Heap (Priority Queue).dll
+C:\LeetCode Stuff\-leetcode\Blind 75\bin\Debug\net6.0\Heap (Priority Queue).pdb
+C:\LeetCode Stuff\-leetcode\Blind 75\obj\Debug\net6.0\Blind 75.csproj.CopyComplete

@@ -10,11 +10,21 @@
         "runtime": {
           "Blind 75.dll": {}
         }
+      },
+      "Heap (Priority Queue)/1.0.0": {
+        "runtime": {
+          "Heap (Priority Queue).dll": {}
+        }
       }
     }
   },
   "libraries": {
     "Blind 75/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Heap (Priority Queue)/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

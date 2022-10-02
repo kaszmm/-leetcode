@@ -14,3 +14,19 @@ D:\Work\Leetcode\TwoSums\Heap (Priority Queue)\obj\Debug\net5.0\Heap (Priority Q
 D:\Work\Leetcode\TwoSums\Heap (Priority Queue)\obj\Debug\net5.0\ref\Heap (Priority Queue).dll
 D:\Work\Leetcode\TwoSums\Heap (Priority Queue)\obj\Debug\net5.0\Heap (Priority Queue).pdb
 D:\Work\Leetcode\TwoSums\Heap (Priority Queue)\obj\Debug\net5.0\Heap (Priority Queue).genruntimeconfig.cache
+C:\LeetCode Stuff\-leetcode\Heap (Priority Queue)\bin\Debug\net5.0\Heap (Priority Queue).exe
+C:\LeetCode Stuff\-leetcode\Heap (Priority Queue)\bin\Debug\net5.0\Heap (Priority Queue).deps.json
+C:\LeetCode Stuff\-leetcode\Heap (Priority Queue)\bin\Debug\net5.0\Heap (Priority Queue).runtimeconfig.json
+C:\LeetCode Stuff\-leetcode\Heap (Priority Queue)\bin\Debug\net5.0\Heap (Priority Queue).runtimeconfig.dev.json
+C:\LeetCode Stuff\-leetcode\Heap (Priority Queue)\bin\Debug\net5.0\Heap (Priority Queue).dll
+C:\LeetCode Stuff\-leetcode\Heap (Priority Queue)\bin\Debug\net5.0\Heap (Priority Queue).pdb
+C:\LeetCode Stuff\-leetcode\Heap (Priority Queue)\obj\Debug\net5.0\Heap (Priority Queue).csproj.AssemblyReference.cache
+C:\LeetCode Stuff\-leetcode\Heap (Priority Queue)\obj\Debug\net5.0\Heap (Priority Queue).GeneratedMSBuildEditorConfig.editorconfig
+C:\LeetCode Stuff\-leetcode\Heap (Priority Queue)\obj\Debug\net5.0\Heap (Priority Queue).AssemblyInfoInputs.cache
+C:\LeetCode Stuff\-leetcode\Heap (Priority Queue)\obj\Debug\net5.0\Heap (Priority Queue).AssemblyInfo.cs
+C:\LeetCode Stuff\-leetcode\Heap (Priority Queue)\obj\Debug\net5.0\Heap (Priority Queue).csproj.CoreCompileInputs.cache
+C:\LeetCode Stuff\-leetcode\Heap (Priority Queue)\obj\Debug\net5.0\Heap (Priority Queue).dll
+C:\LeetCode Stuff\-leetcode\Heap (Priority Queue)\obj\Debug\net5.0\refint\Heap (Priority Queue).dll
+C:\LeetCode Stuff\-leetcode\Heap (Priority Queue)\obj\Debug\net5.0\Heap (Priority Queue).pdb
+C:\LeetCode Stuff\-leetcode\Heap (Priority Queue)\obj\Debug\net5.0\Heap (Priority Queue).genruntimeconfig.cache
+C:\LeetCode Stuff\-leetcode\Heap (Priority Queue)\obj\Debug\net5.0\ref\Heap (Priority Queue).dll

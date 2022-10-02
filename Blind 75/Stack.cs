@@ -63,5 +63,46 @@ namespace Blind_75
 
 			return totTime;
 		}
+
+
+		public static int LongestNiceSubarray(int[] nums)
+		{
+			if (nums.Length == 1) return 1;
+			int maxLength = 1;
+			int i = 0;
+			int j = 1;
+			while (j < nums.Length)
+			{
+                while ((nums[i] & nums[j]) == 0)
+                {
+					j++;
+				}
+				int tempI = i+1;
+				int[] possibleRes = new int[j-i];
+
+				while (tempI<j-1)
+                {
+					if ((nums[tempI] & nums[j-1]) == 0)
+					{
+					}
+                    else
+                    {
+						possibleRes[(j-1) - tempI] = -1;
+                    }
+					tempI++;
+				}
+				for (var k = 1; k < possibleRes.Length; k++)
+                {
+					if (possibleRes[k] == 0)
+					{
+						maxLength = Math.Max(maxLength, k+1);
+					}
+					else break;
+				}
+				i = j;
+				j++;
+			}
+			return maxLength;
+		}
 	}
 }

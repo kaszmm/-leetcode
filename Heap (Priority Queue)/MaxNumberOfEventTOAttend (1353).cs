@@ -62,7 +62,7 @@ namespace Heap__Priority_Queue_
             Array.Sort(events, (a, b) => a[0].CompareTo(b[0]));
 
             int eventCnt = 0;
-            var pq = new PriorityQueue(N);
+            var pq = new MyPriorityQueue(N);
             int maxDay = 100000;
             int actualMax = 0;
             int i = 0;
@@ -95,7 +95,7 @@ namespace Heap__Priority_Queue_
         }
 
         // Min heap
-        class PriorityQueue
+        public class MyPriorityQueue
         {
             private const int Root = 1;
 
@@ -105,7 +105,7 @@ namespace Heap__Priority_Queue_
 
             public int Count;
 
-            public PriorityQueue(int capacity)
+            public MyPriorityQueue(int capacity)
             {
                 this.capacity = capacity;
                 heap = new int[capacity + 1];
@@ -147,8 +147,7 @@ namespace Heap__Priority_Queue_
                 int right = left + 1;
                 while (left <= Count)
                 {
-                    int smaller = (right <= Count && heap[right] < heap[left]) ?
-                        right : left;
+                    int smaller = (right <= Count && heap[right] < heap[left]) ?  right : left;
 
                     if (heap[cur] > heap[smaller])
                     {

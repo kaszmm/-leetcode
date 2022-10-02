@@ -1,0 +1,15 @@
+C:\LeetCode Stuff\-leetcode\MockInterview\bin\Debug\net6.0\MockInterview.exe
+C:\LeetCode Stuff\-leetcode\MockInterview\bin\Debug\net6.0\MockInterview.deps.json
+C:\LeetCode Stuff\-leetcode\MockInterview\bin\Debug\net6.0\MockInterview.runtimeconfig.json
+C:\LeetCode Stuff\-leetcode\MockInterview\bin\Debug\net6.0\MockInterview.dll
+C:\LeetCode Stuff\-leetcode\MockInterview\bin\Debug\net6.0\MockInterview.pdb
+C:\LeetCode Stuff\-leetcode\MockInterview\obj\Debug\net6.0\MockInterview.csproj.AssemblyReference.cache
+C:\LeetCode Stuff\-leetcode\MockInterview\obj\Debug\net6.0\MockInterview.GeneratedMSBuildEditorConfig.editorconfig
+C:\LeetCode Stuff\-leetcode\MockInterview\obj\Debug\net6.0\MockInterview.AssemblyInfoInputs.cache
+C:\LeetCode Stuff\-leetcode\MockInterview\obj\Debug\net6.0\MockInterview.AssemblyInfo.cs
+C:\LeetCode Stuff\-leetcode\MockInterview\obj\Debug\net6.0\MockInterview.csproj.CoreCompileInputs.cache
+C:\LeetCode Stuff\-leetcode\MockInterview\obj\Debug\net6.0\MockInterview.dll
+C:\LeetCode Stuff\-leetcode\MockInterview\obj\Debug\net6.0\refint\MockInterview.dll
+C:\LeetCode Stuff\-leetcode\MockInterview\obj\Debug\net6.0\MockInterview.pdb
+C:\LeetCode Stuff\-leetcode\MockInterview\obj\Debug\net6.0\MockInterview.genruntimeconfig.cache
+C:\LeetCode Stuff\-leetcode\MockInterview\obj\Debug\net6.0\ref\MockInterview.dll

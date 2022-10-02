@@ -252,7 +252,7 @@ namespace Blind_75
         }
 
         //8         Didnt solved this follow up yet so solve it->        //(What if the BST is modified (insert/delete operations) often and you need to find the kth smallest frequently?
-                                                            // How would you optimize the kthSmallest routine?)
+                                                                         // How would you optimize the kthSmallest routine?)
         List<int> list;
         public int KthSmallest(TreeNode root, int k)
         {
@@ -290,6 +290,89 @@ namespace Blind_75
                 cur = cur.right;
             }
             return -1;
+        }
+
+
+        //9
+        private Dictionary<int, int> inMap = new Dictionary<int, int>();
+        public TreeNode Helper(int[] preorder, ref int preIndex, int left, int right)
+        {
+            if (left > right || preIndex == preorder.Length)
+            {
+                return null;
+            }
+            TreeNode root = new TreeNode(preorder[preIndex]);
+            int index = inMap[preorder[preIndex++]];
+            root.left = Helper(preorder, ref preIndex, left, index - 1);
+            root.right = Helper(preorder, ref preIndex, index + 1, right);
+            return root;
+        }
+        public TreeNode BuildTree(int[] preorder, int[] inorder)
+        {
+            for (int i = 0; i < inorder.Length; i++)
+            {
+                inMap[inorder[i]] = i;
+            }
+            int preIndex = 0;
+            return Helper(preorder, ref preIndex, 0, inorder.Length - 1);
+        }
+
+        //10
+        public int maxPathSum(TreeNode root)
+        {
+            int[] res = { int.MinValue };
+            maxPathSum(root, res);
+            return res[0];
+        }
+
+        public int maxPathSum(TreeNode root, int[] res)
+        {
+            if (root == null)
+                return 0;
+
+            int left = maxPathSum(root.left, res);
+            left = Math.Max(left, 0);
+            int right =maxPathSum(root.right, res);
+            right = Math.Max(right, 0);
+            res[0] = Math.Max(res[0], root.val + left + right);
+
+            return root.val + Math.Max(left, right);
+        }
+
+        //10   (Serailize and Desrailize is done using preorder traversal quite easy once you know what traversal to use)
+        public string serialize(TreeNode root)
+        {
+            StringBuilder sb = new StringBuilder();
+            TraversePreOrder(root, ref sb);
+            return sb.ToString();
+        }
+        public void TraversePreOrder(TreeNode root,ref StringBuilder sb)
+        {
+            if (root == null) { sb.Append("null,"); return; }
+            sb.Append($"{root.val},");
+            TraversePreOrder(root.left, ref sb);
+            TraversePreOrder(root.right, ref sb);
+        }
+
+        public TreeNode deserialize(string data)
+        {
+            var arr = data.Split(",");
+            int idx = 0;
+            return TraversePreOrderAndBuilt(arr, ref idx);
+        }
+
+        public TreeNode TraversePreOrderAndBuilt(string[] arr,ref int idx)
+        {
+            if (arr[idx] == "null")
+            {
+                idx++;
+                return null;
+            }
+            TreeNode root = new TreeNode(int.Parse(arr[idx]));
+            idx++;
+            root.left = TraversePreOrderAndBuilt(arr, ref idx);
+            root.right = TraversePreOrderAndBuilt(arr, ref idx);
+            return root;
         }
     }
 }
